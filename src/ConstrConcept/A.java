@@ -3,7 +3,7 @@ package ConstrConcept;
 public class A {
 	
 	public A() {
-		System.out.println("parent default const");
+		System.out.println("parent default const...........");
 	}
 	
 	public A(int i) {
